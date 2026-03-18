@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "capture-video-visualizer",
+        "title": "Capture Video Visualizer",
         "width": 800,
         "height": 600
       }
